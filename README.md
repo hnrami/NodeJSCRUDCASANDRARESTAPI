@@ -12,4 +12,8 @@ SOFTWARE :RabbitMQ,Cassandra
 
 
 
+Credit for RabbitMQ :https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/javascript-nodejs
+ 
+please refer this link for more rabbitmq example and for dependencey also download form there
+
 
